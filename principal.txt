@@ -1,3 +1,8 @@
 ﻿ESTO ES UN SIMULACRO
 Aquí vamos a hacer pruebas con git.
 Empezamos a trabajar...
+
+__________________
+
+Esta sería la versión de explotación.
+___________________
