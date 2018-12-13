@@ -6,3 +6,5 @@ __________________
 
 Esta sería la versión de explotación.
 ___________________
+
+Nuevas modificaciones para el cliente
