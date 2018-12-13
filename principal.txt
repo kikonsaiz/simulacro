@@ -8,3 +8,6 @@ Esta sería la versión de explotación.
 ___________________
 
 Nuevas modificaciones para el cliente
+Nuevas modificaciones para el cliente_2
+Nuevas modificaciones para el cliente_3
+Nuevas modificaciones para el cliente_4
