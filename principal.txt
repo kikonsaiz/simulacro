@@ -13,5 +13,5 @@ Nuevas modificaciones para el cliente_2
 Nuevas modificaciones para el cliente_3
 Nuevas modificaciones para el cliente_4
 =======
-interno esta es la version que el cliente no quiero que vea.
+
 ************************
