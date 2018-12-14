@@ -6,8 +6,12 @@ __________________
 
 Esta sería la versión de explotación.
 ___________________
+<<<<<<< HEAD
 
 Nuevas modificaciones para el cliente
 Nuevas modificaciones para el cliente_2
 Nuevas modificaciones para el cliente_3
 Nuevas modificaciones para el cliente_4
+=======
+interno esta es la version que el cliente no quiero que vea.
+>>>>>>> interno
